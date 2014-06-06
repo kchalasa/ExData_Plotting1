@@ -1,4 +1,4 @@
-## Function to download, unzip the data
+## Function to download, unzip the data from the URL being passed in
 
 	dataDownload<-function(dir,zipfileurl) {
 				setwd(dir)
