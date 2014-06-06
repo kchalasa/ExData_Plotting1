@@ -1,4 +1,3 @@
-	#setwd("C:/KantiOLD/courseera/DataScience/ExploratoryAnalysis/CourseProject1/data")
 	
 	## Get working directory
 		workingDir <- getwd()
