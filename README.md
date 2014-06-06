@@ -90,7 +90,7 @@ GitHub so that the GitHub version of your repository is up to
 date. There should be four PNG files and four R code files.
 
 ````
-Two additional R code files are included in the solution.
+Note: Two additional R code files are included in the solution.
 * dataDownload.R – Function to download and unzip the data
 * loadData.R – Function to load the filtered data into a data frame for plotting. 
 
