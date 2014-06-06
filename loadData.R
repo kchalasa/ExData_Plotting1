@@ -1,5 +1,5 @@
 
-## Function to load the data and filter the data for the two days
+## Function to load the data and filter the data for two dates 2007-02-01 and 2007-02-02
 
 loadData<-function(datafile) {
 		powerconsumption<-read.table(datafile,header=TRUE,sep=";",na.strings = "?",colClasses = c("character","character","numeric","numeric","numeric","numeric","numeric","numeric","numeric"))
