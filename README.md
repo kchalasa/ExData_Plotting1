@@ -94,6 +94,8 @@ Note: Two additional R code files are included in the solution.
 * dataDownload.R – Function to download and unzip the data
 * loadData.R – Function to load the filtered data into a data frame for plotting. 
 
+For these R source code files to work normally, place all the files .R files in the current working directory of your R workspace.
+
 ````
 
 The four plots that you will need to construct are shown below. 
